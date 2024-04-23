@@ -10,6 +10,7 @@
   align-items: center;
   width: 100vw;
   height: 100vh;
+  background-color: rgb(244, 255, 255);
 }
 
 .box {
@@ -19,9 +20,11 @@
   flex-direction: column;
   /* align-items: center; */
   /* width: 60%; */
-  border: 2px solid purple;
+  /* border: 2px solid purple; */
   width: 60vw;
   height: 60vh;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3);
+  background-color: rgb(2, 100, 199);
 }
 
 .input {
